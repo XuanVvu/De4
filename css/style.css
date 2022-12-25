@@ -83,6 +83,7 @@ a {
   padding-left: 0;
 }
 .wrapper header .container .right-header i:last-child {
+  padding-right: 0px;
   border-right: none;
 }
 .wrapper header .container .menu-mobile {
@@ -558,7 +559,7 @@ a {
 }
 
 .wrapper .main-content .product-wrapper {
-  padding-top: 512px;
+  padding-top: 524px;
 }
 .wrapper .main-content .product-wrapper .container .tab-bar {
   border-bottom: 1px solid #ddd;
@@ -639,7 +640,7 @@ a {
 
 .wrapper .main-content .feedback {
   font-family: "Poppins";
-  margin-top: 100px;
+  margin-top: 115px;
 }
 .wrapper .main-content .feedback .feedback-title {
   font-size: 36px;
