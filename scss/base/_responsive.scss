@@ -194,7 +194,7 @@
           box-shadow: none !important;
           .banner-item {
             width: 50% !important;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
             box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
 
             &-content {
@@ -206,6 +206,30 @@
               .banner-item-summary {
               }
             }
+          }
+
+          .item-1 {
+            order: 1;
+          }
+
+          .item-2 {
+            order: 2;
+          }
+
+          .item-3 {
+            order: 4;
+          }
+
+          .item-4 {
+            order: 3;
+          }
+
+          .item-5 {
+            order: 5;
+          }
+
+          .item-6 {
+            order: 6;
           }
         }
       }
